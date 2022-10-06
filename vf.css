@@ -1,0 +1,22 @@
+
+.wid{
+    margin-top: 5vh;
+    width: 50%;
+    background-color: rgb(197, 213, 243);
+    border-radius: 2rem;        
+}
+
+.red{
+color: rgb(245, 80, 80);
+}
+
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 6vh;
+    
+}
+
+.dob{
+    width: 5%;
+}
